@@ -1,0 +1,14 @@
+html {
+  background: #fff;
+}
+.option {
+  padding: 10px 0 25px 30px;
+  background: #34495e;
+  color: white;
+  font-family: helvetica;
+  font-weight: 500;
+  font-size: 20px;
+}
+.list-container {
+  overflow: hidden;
+}
